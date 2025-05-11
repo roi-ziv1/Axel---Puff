@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: edd543336354b1d448d34da003429342
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1794276896644864203
+    second: waterfall 1_0
+  - first:
+      213: 3221163648511573048
+    second: waterfall 1_1
+  - first:
+      213: 4632838353137092562
+    second: waterfall 1_2
+  - first:
+      213: -5028232445032896733
+    second: waterfall 1_3
+  - first:
+      213: -3462608537254352967
+    second: waterfall 1_4
+  - first:
+      213: 6621108324743679284
+    second: waterfall 1_5
+  - first:
+      213: -4935015580613871913
+    second: waterfall 1_6
+  - first:
+      213: 2233543546692768240
+    second: waterfall 1_7
+  - first:
+      213: -2633891899016479474
+    second: waterfall 1_8
+  - first:
+      213: -1037633845931163261
+    second: waterfall 1_9
+  - first:
+      213: 5214397453290070165
+    second: waterfall 1_10
+  - first:
+      213: -3420170067458310103
+    second: waterfall 1_11
+  - first:
+      213: 1580768753410229151
+    second: waterfall 1_12
+  - first:
+      213: 3546307887360939569
+    second: waterfall 1_13
+  - first:
+      213: 652915472054232750
+    second: waterfall 1_14
+  - first:
+      213: 4153613347679946995
+    second: waterfall 1_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: waterfall 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 97
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537eac24ba27917e0800000000000000
+      internalID: -1794276896644864203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waterfall 1_1
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 0
+        width: 98
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83cfee8954fd3bc20800000000000000
+      internalID: 3221163648511573048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waterfall 1_2
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 0
+        width: 98
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d7ca84bfe52b4040800000000000000
+      internalID: 4632838353137092562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waterfall 1_3
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 0
+        width: 98
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32768b16b31283ab0800000000000000
+      internalID: -5028232445032896733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waterfall 1_4
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 0
+        width: 98
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b728bc81e752ffc0800000000000000
+      internalID: -3462608537254352967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waterfall 1_5
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 0
+        width: 98
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d8ab3f0f6e2eb50800000000000000
+      internalID: 6621108324743679284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waterfall 1_6
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 0
+        width: 98
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d6fd7ce97d438bb0800000000000000
+      internalID: -4935015580613871913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waterfall 1_7
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 0
+        width: 98
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f11dfa95042ffe10800000000000000
+      internalID: 2233543546692768240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waterfall 1_8
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 0
+        width: 98
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0df756d549827bd0800000000000000
+      internalID: -2633891899016479474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waterfall 1_9
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 0
+        width: 98
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 381c956c3859991f0800000000000000
+      internalID: -1037633845931163261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waterfall 1_10
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 0
+        width: 98
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5906e015bd24d5840800000000000000
+      internalID: 5214397453290070165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waterfall 1_11
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 0
+        width: 98
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92049b9c17d1980d0800000000000000
+      internalID: -3420170067458310103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waterfall 1_12
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 0
+        width: 98
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f93cd035ec400f510800000000000000
+      internalID: 1580768753410229151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waterfall 1_13
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 0
+        width: 98
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13690520c34073130800000000000000
+      internalID: 3546307887360939569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waterfall 1_14
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 0
+        width: 98
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6262c992f9f0900800000000000000
+      internalID: 652915472054232750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waterfall 1_15
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 0
+        width: 97
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f8c8ca355994a930800000000000000
+      internalID: 4153613347679946995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      waterfall 1_0: -1794276896644864203
+      waterfall 1_1: 3221163648511573048
+      waterfall 1_10: 5214397453290070165
+      waterfall 1_11: -3420170067458310103
+      waterfall 1_12: 1580768753410229151
+      waterfall 1_13: 3546307887360939569
+      waterfall 1_14: 652915472054232750
+      waterfall 1_15: 4153613347679946995
+      waterfall 1_2: 4632838353137092562
+      waterfall 1_3: -5028232445032896733
+      waterfall 1_4: -3462608537254352967
+      waterfall 1_5: 6621108324743679284
+      waterfall 1_6: -4935015580613871913
+      waterfall 1_7: 2233543546692768240
+      waterfall 1_8: -2633891899016479474
+      waterfall 1_9: -1037633845931163261
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

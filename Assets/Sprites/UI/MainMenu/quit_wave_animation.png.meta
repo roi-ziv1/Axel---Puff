@@ -1,0 +1,432 @@
+fileFormatVersion: 2
+guid: b54b6a2a31f04f54a81b4281c9c64604
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5809541988401085856
+    second: quit_wave_animation_0
+  - first:
+      213: -8383112522742529486
+    second: quit_wave_animation_1
+  - first:
+      213: -6057579303918595586
+    second: quit_wave_animation_2
+  - first:
+      213: -3577443435355851630
+    second: quit_wave_animation_3
+  - first:
+      213: 3462991175942793053
+    second: quit_wave_animation_4
+  - first:
+      213: -2191294139102923483
+    second: quit_wave_animation_5
+  - first:
+      213: -2422021569186395541
+    second: quit_wave_animation_6
+  - first:
+      213: 3656421932957539318
+    second: quit_wave_animation_7
+  - first:
+      213: 731038896446610656
+    second: quit_wave_animation_8
+  - first:
+      213: 7801726847107192799
+    second: quit_wave_animation_9
+  - first:
+      213: -3510414766997232672
+    second: quit_wave_animation_10
+  - first:
+      213: 1492586725584258047
+    second: quit_wave_animation_11
+  - first:
+      213: -882727463763891313
+    second: quit_wave_animation_12
+  - first:
+      213: 4137685572096168833
+    second: quit_wave_animation_13
+  - first:
+      213: 1089295573607546658
+    second: quit_wave_animation_14
+  - first:
+      213: -7312049940000022421
+    second: quit_wave_animation_15
+  - first:
+      213: 977434398187786652
+    second: quit_wave_animation_16
+  - first:
+      213: 2873070733888605110
+    second: quit_wave_animation_17
+  - first:
+      213: -5045317935244297262
+    second: quit_wave_animation_18
+  - first:
+      213: -6231892417622112706
+    second: quit_wave_animation_19
+  - first:
+      213: -3391106147455188766
+    second: quit_wave_animation_20
+  - first:
+      213: -5266958870212759417
+    second: quit_wave_animation_21
+  - first:
+      213: 7176235830120299356
+    second: quit_wave_animation_22
+  - first:
+      213: 4014294340508242895
+    second: quit_wave_animation_23
+  - first:
+      213: 2705451715256855577
+    second: quit_wave_animation_24
+  - first:
+      213: -762705932446847714
+    second: quit_wave_animation_25
+  - first:
+      213: -2085233476067753031
+    second: quit_wave_animation_26
+  - first:
+      213: -7360125905374047733
+    second: quit_wave_animation_27
+  - first:
+      213: 2000690533695284611
+    second: quit_wave_animation_28
+  - first:
+      213: 5897926916479151301
+    second: quit_wave_animation_29
+  - first:
+      213: 2323974620778816052
+    second: quit_wave_animation_30
+  - first:
+      213: 5919587834914630630
+    second: quit_wave_animation_31
+  - first:
+      213: -8955017500647774488
+    second: quit_wave_animation_32
+  - first:
+      213: 5350399900175315587
+    second: quit_wave_animation_33
+  - first:
+      213: -5647415999488627377
+    second: quit_wave_animation_34
+  - first:
+      213: 9168398120467631198
+    second: quit_wave_animation_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: quit_wave_animation_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 163
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06203a1875c506fa0800000000000000
+      internalID: -5809541988401085856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quit_wave_animation_1
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 0
+        width: 163
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2328dc1839339ab80800000000000000
+      internalID: -8383112522742529486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quit_wave_animation_2
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 0
+        width: 163
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef19c2fa7b72feba0800000000000000
+      internalID: -6057579303918595586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quit_wave_animation_3
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 0
+        width: 163
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 294bf8f462e5a5ec0800000000000000
+      internalID: -3577443435355851630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quit_wave_animation_4
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 0
+        width: 163
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57e16670240f0030800000000000000
+      internalID: 3462991175942793053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quit_wave_animation_5
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 0
+        width: 163
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 525ff582795f691e0800000000000000
+      internalID: -2191294139102923483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quit_wave_animation_6
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 0
+        width: 163
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a8f4a1730436ed0800000000000000
+      internalID: -2422021569186395541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quit_wave_animation_7
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 0
+        width: 163
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb91ee10683eb230800000000000000
+      internalID: 3656421932957539318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quit_wave_animation_8
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 0
+        width: 163
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec91bbc00c252a00800000000000000
+      internalID: 731038896446610656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: dec7855d72dd91447ac18d7db0e2d0a1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      quit_wave_animation_0: -5809541988401085856
+      quit_wave_animation_1: -8383112522742529486
+      quit_wave_animation_2: -6057579303918595586
+      quit_wave_animation_3: -3577443435355851630
+      quit_wave_animation_4: 3462991175942793053
+      quit_wave_animation_5: -2191294139102923483
+      quit_wave_animation_6: -2422021569186395541
+      quit_wave_animation_7: 3656421932957539318
+      quit_wave_animation_8: 731038896446610656
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

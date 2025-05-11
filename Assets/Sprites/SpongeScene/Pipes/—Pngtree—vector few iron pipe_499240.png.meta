@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 8eff10512ca1ef74fa1dce04932b1f34
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4848547096398855877
+    second: "\u2014Pngtree\u2014vector few iron pipe_499240_0"
+  - first:
+      213: -8859823150947422013
+    second: "\u2014Pngtree\u2014vector few iron pipe_499240_1"
+  - first:
+      213: 110589063490881135
+    second: "\u2014Pngtree\u2014vector few iron pipe_499240_2"
+  - first:
+      213: 2237347445803981176
+    second: "\u2014Pngtree\u2014vector few iron pipe_499240_3"
+  - first:
+      213: -4704246054332985906
+    second: "\u2014Pngtree\u2014vector few iron pipe_499240_4"
+  - first:
+      213: 1630950383151483887
+    second: "\u2014Pngtree\u2014vector few iron pipe_499240_5"
+  - first:
+      213: 8865319665969833891
+    second: "\u2014Pngtree\u2014vector few iron pipe_499240_6"
+  - first:
+      213: 7042019207147155429
+    second: "\u2014Pngtree\u2014vector few iron pipe_499240_7"
+  - first:
+      213: -7099509281529233975
+    second: "\u2014Pngtree\u2014vector few iron pipe_499240_8"
+  - first:
+      213: 395318595356643366
+    second: "\u2014Pngtree\u2014vector few iron pipe_499240_9"
+  - first:
+      213: 2436017612378757904
+    second: "\u2014Pngtree\u2014vector few iron pipe_499240_10"
+  - first:
+      213: -1627238492515019843
+    second: "\u2014Pngtree\u2014vector few iron pipe_499240_11"
+  - first:
+      213: -4519634594145914083
+    second: "\u2014Pngtree\u2014vector few iron pipe_499240_12"
+  - first:
+      213: -7768563154330885191
+    second: "\u2014Pngtree\u2014vector few iron pipe_499240_13"
+  - first:
+      213: -1069419709923748979
+    second: "\u2014Pngtree\u2014vector few iron pipe_499240_14"
+  - first:
+      213: -2475580998687339329
+    second: "\u2014Pngtree\u2014vector few iron pipe_499240_15"
+  - first:
+      213: -3073188945035863259
+    second: "\u2014Pngtree\u2014vector few iron pipe_499240_16"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014vector few iron pipe_499240_0"
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 639
+        width: 693
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c777f849b4d39e4bb39a61d1db5cde4
+      internalID: 2115899515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014vector few iron pipe_499240_1"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 103
+        width: 1052
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61eac0003ca2b2249a6c44ec8f12f3ed
+      internalID: -936704216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014vector few iron pipe_499240_2"
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 50
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b355e2018b1e044924c02e7b2d0cb3
+      internalID: 958029143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014vector few iron pipe_499240_3"
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 68
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c2d6ca0591f0f469c71782cf09e63c
+      internalID: -188106719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014vector few iron pipe_499240_4"
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 49
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efbd0fb55823c5143b2b5b5150c739fe
+      internalID: -1504630367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014vector few iron pipe_499240_5"
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 49
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b42ed0b77bcb964a8f61bb689edb83c
+      internalID: -29046996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014vector few iron pipe_499240_6"
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 44
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4f62a37daf312438f10bfe6bff13c4
+      internalID: 900936417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014vector few iron pipe_499240_7"
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 51
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a7bf05761951143b966686229df16b
+      internalID: 2134588837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014vector few iron pipe_499240_8"
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 44
+        width: 46
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8fe6dcfd32149f4b9d73a3af9aa5ecc
+      internalID: 290563906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014vector few iron pipe_499240_9"
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 51
+        width: 47
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73b0c33b2b6cf54eacb44ea557d656c
+      internalID: 316791671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014vector few iron pipe_499240_10"
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 49
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83860845f3a7c1448c44b3345ea4727
+      internalID: -1950852004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014vector few iron pipe_499240_11"
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 49
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4b913f931b610409900a4a3753b78e
+      internalID: 1715403774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014vector few iron pipe_499240_12"
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 50
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448716b5fdbdf244594c41ac1d881eb7
+      internalID: 1008073635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014vector few iron pipe_499240_13"
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 43
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd14aad3ac61806408e77d134a46230e
+      internalID: -1324899633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014vector few iron pipe_499240_14"
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 50
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d41c5453354ed34fb8ca04f11a5d80a
+      internalID: 1598747401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014vector few iron pipe_499240_15"
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 49
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e8ab470470aa34fa5353112c567a3e
+      internalID: 371816997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014vector few iron pipe_499240_16"
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 43
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b676e04ea10eb0478c447a6fc701792
+      internalID: -425696025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e6801a70a2c848d408bd94b8ffa7e5ac
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "\u2014Pngtree\u2014vector few iron pipe_499240_0": 2115899515
+      "\u2014Pngtree\u2014vector few iron pipe_499240_1": -936704216
+      "\u2014Pngtree\u2014vector few iron pipe_499240_10": -1950852004
+      "\u2014Pngtree\u2014vector few iron pipe_499240_11": 1715403774
+      "\u2014Pngtree\u2014vector few iron pipe_499240_12": 1008073635
+      "\u2014Pngtree\u2014vector few iron pipe_499240_13": -1324899633
+      "\u2014Pngtree\u2014vector few iron pipe_499240_14": 1598747401
+      "\u2014Pngtree\u2014vector few iron pipe_499240_15": 371816997
+      "\u2014Pngtree\u2014vector few iron pipe_499240_16": -425696025
+      "\u2014Pngtree\u2014vector few iron pipe_499240_2": 958029143
+      "\u2014Pngtree\u2014vector few iron pipe_499240_3": -188106719
+      "\u2014Pngtree\u2014vector few iron pipe_499240_4": -1504630367
+      "\u2014Pngtree\u2014vector few iron pipe_499240_5": -29046996
+      "\u2014Pngtree\u2014vector few iron pipe_499240_6": 900936417
+      "\u2014Pngtree\u2014vector few iron pipe_499240_7": 2134588837
+      "\u2014Pngtree\u2014vector few iron pipe_499240_8": 290563906
+      "\u2014Pngtree\u2014vector few iron pipe_499240_9": 316791671
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

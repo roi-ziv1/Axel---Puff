@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: 787a17074de1ee84baae9e6914c94cb8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9061943316732605148
+    second: Puff_Smallest_Idle_Final_0
+  - first:
+      213: -9063898575130723851
+    second: Puff_Smallest_Idle_Final_1
+  - first:
+      213: -6194750411895822915
+    second: Puff_Smallest_Idle_Final_2
+  - first:
+      213: -5847900585244844010
+    second: Puff_Smallest_Idle_Final_3
+  - first:
+      213: -3677011771051139497
+    second: Puff_Smallest_Idle_Final_4
+  - first:
+      213: -5949282943655224150
+    second: Puff_Smallest_Idle_Final_5
+  - first:
+      213: -576909298267453519
+    second: Puff_Smallest_Idle_Final_6
+  - first:
+      213: 4687144648484160959
+    second: Puff_Smallest_Idle_Final_7
+  - first:
+      213: 8551125201494049408
+    second: Puff_Smallest_Idle_Final_8
+  - first:
+      213: -2095941825146750892
+    second: Puff_Smallest_Idle_Final_9
+  - first:
+      213: -6976785015796023853
+    second: Puff_Smallest_Idle_Final_10
+  - first:
+      213: 5761715898694190635
+    second: Puff_Smallest_Idle_Final_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Puff_Smallest_Idle_Final_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 29
+        width: 65
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd272903f6d72cd70800000000000000
+      internalID: 9061943316732605148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_Smallest_Idle_Final_1
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 29
+        width: 65
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9f92db440963280800000000000000
+      internalID: -9063898575130723851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_Smallest_Idle_Final_2
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 29
+        width: 65
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db5aeb25253d70aa0800000000000000
+      internalID: -6194750411895822915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_Smallest_Idle_Final_3
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 29
+        width: 65
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610aea6b66518dea0800000000000000
+      internalID: -5847900585244844010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_Smallest_Idle_Final_4
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 29
+        width: 65
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e119f9641a8fcc0800000000000000
+      internalID: -3677011771051139497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_Smallest_Idle_Final_5
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 29
+        width: 65
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aacd323fea6ef6da0800000000000000
+      internalID: -5949282943655224150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_Smallest_Idle_Final_6
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 29
+        width: 65
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b70621cc086ef7f0800000000000000
+      internalID: -576909298267453519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_Smallest_Idle_Final_7
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 29
+        width: 65
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb585c769351c0140800000000000000
+      internalID: 4687144648484160959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_Smallest_Idle_Final_8
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 29
+        width: 65
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08281f0a013bba670800000000000000
+      internalID: 8551125201494049408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_Smallest_Idle_Final_9
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 29
+        width: 65
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4587e3ac308b9e2e0800000000000000
+      internalID: -2095941825146750892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_Smallest_Idle_Final_10
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 29
+        width: 65
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ddb5332efa7d2f90800000000000000
+      internalID: -6976785015796023853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_Smallest_Idle_Final_11
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 29
+        width: 65
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b26436e351ab5ff40800000000000000
+      internalID: 5761715898694190635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Puff_Smallest_Idle_Final_0: 9061943316732605148
+      Puff_Smallest_Idle_Final_1: -9063898575130723851
+      Puff_Smallest_Idle_Final_10: -6976785015796023853
+      Puff_Smallest_Idle_Final_11: 5761715898694190635
+      Puff_Smallest_Idle_Final_2: -6194750411895822915
+      Puff_Smallest_Idle_Final_3: -5847900585244844010
+      Puff_Smallest_Idle_Final_4: -3677011771051139497
+      Puff_Smallest_Idle_Final_5: -5949282943655224150
+      Puff_Smallest_Idle_Final_6: -576909298267453519
+      Puff_Smallest_Idle_Final_7: 4687144648484160959
+      Puff_Smallest_Idle_Final_8: 8551125201494049408
+      Puff_Smallest_Idle_Final_9: -2095941825146750892
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

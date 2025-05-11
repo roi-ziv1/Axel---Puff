@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: 7ddae1b0a57127f49a600fb0433fddad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -913334017094482691
+    second: Button NEW left_0
+  - first:
+      213: -8568711226425924376
+    second: Button NEW left_1
+  - first:
+      213: 7454211272242809626
+    second: Button NEW left_2
+  - first:
+      213: 5642778949409964642
+    second: Button NEW left_3
+  - first:
+      213: 4765142752641358466
+    second: Button NEW left_4
+  - first:
+      213: 3828915330026726347
+    second: Button NEW left_5
+  - first:
+      213: -717624768946436316
+    second: Button NEW left_6
+  - first:
+      213: -6707219903977097119
+    second: Button NEW left_7
+  - first:
+      213: 1870596974124373171
+    second: Button NEW left_8
+  - first:
+      213: -156874704978669446
+    second: Button NEW left_9
+  - first:
+      213: -4673326148102098980
+    second: Button NEW left_10
+  - first:
+      213: -5649521034029608612
+    second: Button NEW left_11
+  - first:
+      213: -8263513867209314865
+    second: Button NEW left_12
+  - first:
+      213: 8737299111526122852
+    second: Button NEW left_13
+  - first:
+      213: 4697820422315257738
+    second: Button NEW left_14
+  - first:
+      213: 6679527175917693598
+    second: Button NEW left_15
+  - first:
+      213: -8449338317819350933
+    second: Button NEW left_16
+  - first:
+      213: 2093246130779883724
+    second: Button NEW left_17
+  - first:
+      213: -6526826699017699668
+    second: Button NEW left_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Button NEW left_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 233
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df48dcdec8f2353f0800000000000000
+      internalID: -913334017094482691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button NEW left_1
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 0
+        width: 235
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e42bfdd982d51980800000000000000
+      internalID: -8568711226425924376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button NEW left_2
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 0
+        width: 235
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1bceb278ada27760800000000000000
+      internalID: 7454211272242809626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button NEW left_3
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 0
+        width: 235
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26202a9ce8d2f4e40800000000000000
+      internalID: 5642778949409964642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button NEW left_4
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 0
+        width: 235
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a17333610312240800000000000000
+      internalID: 4765142752641358466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button NEW left_5
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 0
+        width: 234
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc36a49c43a032530800000000000000
+      internalID: 3828915330026726347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button NEW left_6
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 0
+        width: 235
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4270de4231c7a06f0800000000000000
+      internalID: -717624768946436316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button NEW left_7
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 0
+        width: 235
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 168f301a80b2be2a0800000000000000
+      internalID: -6707219903977097119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button NEW left_8
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 0
+        width: 233
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b49a908902b5f910800000000000000
+      internalID: 1870596974124373171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button NEW left_9
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 0
+        width: 233
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a709087794ba2ddf0800000000000000
+      internalID: -156874704978669446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button NEW left_10
+      rect:
+        serializedVersion: 2
+        x: 2369
+        y: 0
+        width: 233
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf64dee0a2052fb0800000000000000
+      internalID: -4673326148102098980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button NEW left_11
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 0
+        width: 235
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51519f4d8ed891b0800000000000000
+      internalID: -5649521034029608612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button NEW left_12
+      rect:
+        serializedVersion: 2
+        x: 2841
+        y: 0
+        width: 235
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd69747be9125d80800000000000000
+      internalID: -8263513867209314865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button NEW left_13
+      rect:
+        serializedVersion: 2
+        x: 3079
+        y: 0
+        width: 234
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 465c9deef3f114970800000000000000
+      internalID: 8737299111526122852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button NEW left_14
+      rect:
+        serializedVersion: 2
+        x: 3316
+        y: 0
+        width: 235
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f2da2b8c2023140800000000000000
+      internalID: 4697820422315257738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button NEW left_15
+      rect:
+        serializedVersion: 2
+        x: 3553
+        y: 0
+        width: 235
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a642ca39272bc50800000000000000
+      internalID: 6679527175917693598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button NEW left_16
+      rect:
+        serializedVersion: 2
+        x: 3790
+        y: 0
+        width: 235
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60f743019bedba80800000000000000
+      internalID: -8449338317819350933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button NEW left_17
+      rect:
+        serializedVersion: 2
+        x: 4027
+        y: 0
+        width: 235
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc88894f344bc0d10800000000000000
+      internalID: 2093246130779883724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button NEW left_18
+      rect:
+        serializedVersion: 2
+        x: 4264
+        y: 0
+        width: 233
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caeb386a2bd0c65a0800000000000000
+      internalID: -6526826699017699668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 57d765ab29996264992b5db010372bee
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Button NEW left_0: -913334017094482691
+      Button NEW left_1: -8568711226425924376
+      Button NEW left_10: -4673326148102098980
+      Button NEW left_11: -5649521034029608612
+      Button NEW left_12: -8263513867209314865
+      Button NEW left_13: 8737299111526122852
+      Button NEW left_14: 4697820422315257738
+      Button NEW left_15: 6679527175917693598
+      Button NEW left_16: -8449338317819350933
+      Button NEW left_17: 2093246130779883724
+      Button NEW left_18: -6526826699017699668
+      Button NEW left_2: 7454211272242809626
+      Button NEW left_3: 5642778949409964642
+      Button NEW left_4: 4765142752641358466
+      Button NEW left_5: 3828915330026726347
+      Button NEW left_6: -717624768946436316
+      Button NEW left_7: -6707219903977097119
+      Button NEW left_8: 1870596974124373171
+      Button NEW left_9: -156874704978669446
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: 20676ba1f66f8dd4d946c72d4a87cece
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5446154440113115015
+    second: "\u2014Pngtree\u2014pvc pipe and valves_6966198_0"
+  - first:
+      213: -2347251119477341492
+    second: "\u2014Pngtree\u2014pvc pipe and valves_6966198_1"
+  - first:
+      213: 486319824907149693
+    second: "\u2014Pngtree\u2014pvc pipe and valves_6966198_2"
+  - first:
+      213: -3778543721939602778
+    second: "\u2014Pngtree\u2014pvc pipe and valves_6966198_3"
+  - first:
+      213: 8808949267401345475
+    second: "\u2014Pngtree\u2014pvc pipe and valves_6966198_4"
+  - first:
+      213: -1313984632947316970
+    second: "\u2014Pngtree\u2014pvc pipe and valves_6966198_5"
+  - first:
+      213: -4755216238975382269
+    second: "\u2014Pngtree\u2014pvc pipe and valves_6966198_6"
+  - first:
+      213: 995335077259679016
+    second: "\u2014Pngtree\u2014pvc pipe and valves_6966198_7"
+  - first:
+      213: 4607391231454201723
+    second: "\u2014Pngtree\u2014pvc pipe and valves_6966198_8"
+  - first:
+      213: 4282395694635179274
+    second: "\u2014Pngtree\u2014pvc pipe and valves_6966198_9"
+  - first:
+      213: -4252203833356116234
+    second: "\u2014Pngtree\u2014pvc pipe and valves_6966198_10"
+  - first:
+      213: 9038079870242000073
+    second: "\u2014Pngtree\u2014pvc pipe and valves_6966198_11"
+  - first:
+      213: 393641863593359353
+    second: "\u2014Pngtree\u2014pvc pipe and valves_6966198_12"
+  - first:
+      213: 4532349955524231642
+    second: "\u2014Pngtree\u2014pvc pipe and valves_6966198_13"
+  - first:
+      213: 2835709777456899474
+    second: "\u2014Pngtree\u2014pvc pipe and valves_6966198_14"
+  - first:
+      213: 5488773814088893113
+    second: "\u2014Pngtree\u2014pvc pipe and valves_6966198_15"
+  - first:
+      213: 2297541284942504198
+    second: "\u2014Pngtree\u2014pvc pipe and valves_6966198_16"
+  - first:
+      213: 297521561463704739
+    second: "\u2014Pngtree\u2014pvc pipe and valves_6966198_17"
+  - first:
+      213: -1848755790450573764
+    second: "\u2014Pngtree\u2014pvc pipe and valves_6966198_18"
+  - first:
+      213: 6120576979137726806
+    second: "\u2014Pngtree\u2014pvc pipe and valves_6966198_19"
+  - first:
+      213: 1943014225677509973
+    second: "\u2014Pngtree\u2014pvc pipe and valves_6966198_20"
+  - first:
+      213: -6544556379362584817
+    second: "\u2014Pngtree\u2014pvc pipe and valves_6966198_21"
+  - first:
+      213: -6422988923190911935
+    second: "\u2014Pngtree\u2014pvc pipe and valves_6966198_22"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014pvc pipe and valves_6966198_0"
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1132
+        width: 1154
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98a1e8c0d278c847ae885a60c05f6ac
+      internalID: -384707601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014pvc pipe and valves_6966198_1"
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1030
+        width: 538
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa23767857fd004fa14adf6cb512a1c
+      internalID: 1795493224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014pvc pipe and valves_6966198_2"
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1047
+        width: 578
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3438eed76f635ae46a4b1bc607a12dd8
+      internalID: -251229873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014pvc pipe and valves_6966198_3"
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 935
+        width: 1154
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e48a6cabe656346ae5aaf319c2fefc
+      internalID: -96308760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014pvc pipe and valves_6966198_4"
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 840
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5669855f7c3a7a44abbf50a124d1a75
+      internalID: -1249248298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014pvc pipe and valves_6966198_5"
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 786
+        width: 161
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7cfbda864f3264796bfa39c0aa2544
+      internalID: 2055927281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014pvc pipe and valves_6966198_6"
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 840
+        width: 161
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89eef724ee2ab084ba80c224c40e2c2c
+      internalID: 1734283197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014pvc pipe and valves_6966198_7"
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 779
+        width: 122
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e45cc16ced55246940b0176e5bcaf5
+      internalID: -293418968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014pvc pipe and valves_6966198_8"
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 819
+        width: 157
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52accfe1bbe5e8e4da52efe28354994a
+      internalID: 531464971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014pvc pipe and valves_6966198_9"
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 812
+        width: 151
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d98cb05e0fdd14db0e43545a9ca138
+      internalID: 1585190218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014pvc pipe and valves_6966198_10"
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 815
+        width: 111
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca16c5edfe415e4099b7403c14cc5dd
+      internalID: -1534184990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014pvc pipe and valves_6966198_11"
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 481
+        width: 89
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c770bc40d3b67d40a87ba1823136dba
+      internalID: -469758590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014pvc pipe and valves_6966198_12"
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 481
+        width: 178
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c5056e360f1d64ba84f35dc1e8e005
+      internalID: 174541397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014pvc pipe and valves_6966198_13"
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 492
+        width: 315
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ac4af9344868d4bb03eef0478ae295
+      internalID: -1375831572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014pvc pipe and valves_6966198_14"
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 492
+        width: 316
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0574d838b088d43bc07df277fda801
+      internalID: 140054810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014pvc pipe and valves_6966198_15"
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 230
+        width: 59
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dfc3f7d3c91f764887bc995ad4a7e28
+      internalID: -1831532591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014pvc pipe and valves_6966198_16"
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 230
+        width: 59
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa10b56181b8f24e8f72e5c7797a114
+      internalID: 227811378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014pvc pipe and valves_6966198_17"
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 331
+        width: 320
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2492f8876249b32409ee041619159fda
+      internalID: 1145778109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014pvc pipe and valves_6966198_18"
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 248
+        width: 320
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66620dccebdd6a0408599d748cf480e0
+      internalID: 356046936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014pvc pipe and valves_6966198_19"
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 56
+        width: 188
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca6e0d5b06bcf34eab2f6f83a69c648
+      internalID: -1791340341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014pvc pipe and valves_6966198_20"
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 23
+        width: 188
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e5e8cb6f77a0b48b1430f507ac4dc3
+      internalID: 1551754560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014pvc pipe and valves_6966198_21"
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 56
+        width: 188
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aadced1130806934f8da0e3c085135af
+      internalID: 985617722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014pvc pipe and valves_6966198_22"
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 55
+        width: 188
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5e6dfd906d34c4094d8fa4e47e6528
+      internalID: -610805398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d9e135172cc90e244b52836476d6cc77
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "\u2014Pngtree\u2014pvc pipe and valves_6966198_0": -384707601
+      "\u2014Pngtree\u2014pvc pipe and valves_6966198_1": 1795493224
+      "\u2014Pngtree\u2014pvc pipe and valves_6966198_10": -1534184990
+      "\u2014Pngtree\u2014pvc pipe and valves_6966198_11": -469758590
+      "\u2014Pngtree\u2014pvc pipe and valves_6966198_12": 174541397
+      "\u2014Pngtree\u2014pvc pipe and valves_6966198_13": -1375831572
+      "\u2014Pngtree\u2014pvc pipe and valves_6966198_14": 140054810
+      "\u2014Pngtree\u2014pvc pipe and valves_6966198_15": -1831532591
+      "\u2014Pngtree\u2014pvc pipe and valves_6966198_16": 227811378
+      "\u2014Pngtree\u2014pvc pipe and valves_6966198_17": 1145778109
+      "\u2014Pngtree\u2014pvc pipe and valves_6966198_18": 356046936
+      "\u2014Pngtree\u2014pvc pipe and valves_6966198_19": -1791340341
+      "\u2014Pngtree\u2014pvc pipe and valves_6966198_2": -251229873
+      "\u2014Pngtree\u2014pvc pipe and valves_6966198_20": 1551754560
+      "\u2014Pngtree\u2014pvc pipe and valves_6966198_21": 985617722
+      "\u2014Pngtree\u2014pvc pipe and valves_6966198_22": -610805398
+      "\u2014Pngtree\u2014pvc pipe and valves_6966198_3": -96308760
+      "\u2014Pngtree\u2014pvc pipe and valves_6966198_4": -1249248298
+      "\u2014Pngtree\u2014pvc pipe and valves_6966198_5": 2055927281
+      "\u2014Pngtree\u2014pvc pipe and valves_6966198_6": 1734283197
+      "\u2014Pngtree\u2014pvc pipe and valves_6966198_7": -293418968
+      "\u2014Pngtree\u2014pvc pipe and valves_6966198_8": 531464971
+      "\u2014Pngtree\u2014pvc pipe and valves_6966198_9": 1585190218
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

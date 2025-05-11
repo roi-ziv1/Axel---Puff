@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: 4470a183fe4eff3428645ce311561b62
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3328649968166924594
+    second: Axel_Idle-export_0
+  - first:
+      213: -8805556986218916324
+    second: Axel_Idle-export_1
+  - first:
+      213: 6910228365203378212
+    second: Axel_Idle-export_2
+  - first:
+      213: -3596785192933013556
+    second: Axel_Idle-export_3
+  - first:
+      213: -992411322566412869
+    second: Axel_Idle-export_4
+  - first:
+      213: 8207445885736957541
+    second: Axel_Idle-export_5
+  - first:
+      213: -137661938234085850
+    second: Axel_Idle-export_6
+  - first:
+      213: 9208814908267395503
+    second: Axel_Idle-export_7
+  - first:
+      213: -2642837614805642661
+    second: Axel_Idle-export_8
+  - first:
+      213: -2971756100602623734
+    second: Axel_Idle-export_9
+  - first:
+      213: 6718407366679920942
+    second: Axel_Idle-export_10
+  - first:
+      213: -6533257168348021459
+    second: Axel_Idle-export_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Axel_Idle-export_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 109
+        height: 162
+      alignment: 9
+      pivot: {x: 0.49300265, y: 0.00094174896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece8bc96d724ec1d0800000000000000
+      internalID: -3328649968166924594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axel_Idle-export_1
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 0
+        width: 104
+        height: 162
+      alignment: 9
+      pivot: {x: 0.4926664, y: 0.00094174896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1656fa23906cc580800000000000000
+      internalID: -8805556986218916324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axel_Idle-export_2
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1
+        width: 98
+        height: 161
+      alignment: 9
+      pivot: {x: 0.47665188, y: -0.002157882}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42096c0161016ef50800000000000000
+      internalID: 6910228365203378212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axel_Idle-export_3
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 0
+        width: 104
+        height: 162
+      alignment: 9
+      pivot: {x: 0.4926664, y: 0.00094174896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc7c7d17ce6a51ec0800000000000000
+      internalID: -3596785192933013556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axel_Idle-export_4
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 0
+        width: 110
+        height: 162
+      alignment: 9
+      pivot: {x: 0.5000003, y: 0.00094174896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb57a5ff82f3a32f0800000000000000
+      internalID: -992411322566412869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axel_Idle-export_5
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 0
+        width: 104
+        height: 162
+      alignment: 9
+      pivot: {x: 0.5073342, y: 0.00094174896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 566b7945c84b6e170800000000000000
+      internalID: 8207445885736957541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axel_Idle-export_6
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 0
+        width: 98
+        height: 162
+      alignment: 9
+      pivot: {x: 0.5000006, y: 0.0056498474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e2770523de61ef0800000000000000
+      internalID: -137661938234085850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axel_Idle-export_7
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 0
+        width: 104
+        height: 162
+      alignment: 9
+      pivot: {x: 0.5000012, y: 0.0056498474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa979916e584ccf70800000000000000
+      internalID: 9208814908267395503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axel_Idle-export_8
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 0
+        width: 110
+        height: 162
+      alignment: 9
+      pivot: {x: 0.49306697, y: 0.00094174896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5218721131c25bd0800000000000000
+      internalID: -2642837614805642661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axel_Idle-export_9
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 0
+        width: 104
+        height: 162
+      alignment: 9
+      pivot: {x: 0.5000012, y: 0.00094174896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a090b70529332c6d0800000000000000
+      internalID: -2971756100602623734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axel_Idle-export_10
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 0
+        width: 98
+        height: 162
+      alignment: 9
+      pivot: {x: 0.50000125, y: 0.00094174896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21035387e39c3d50800000000000000
+      internalID: 6718407366679920942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axel_Idle-export_11
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 0
+        width: 104
+        height: 162
+      alignment: 9
+      pivot: {x: 0.50733477, y: 0.00094174896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d775658353555a0800000000000000
+      internalID: -6533257168348021459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4ce6b5e0ac4c5cd46835f5ff1091e127
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Axel_Idle-export_0: -3328649968166924594
+      Axel_Idle-export_1: -8805556986218916324
+      Axel_Idle-export_10: 6718407366679920942
+      Axel_Idle-export_11: -6533257168348021459
+      Axel_Idle-export_2: 6910228365203378212
+      Axel_Idle-export_3: -3596785192933013556
+      Axel_Idle-export_4: -992411322566412869
+      Axel_Idle-export_5: 8207445885736957541
+      Axel_Idle-export_6: -137661938234085850
+      Axel_Idle-export_7: 9208814908267395503
+      Axel_Idle-export_8: -2642837614805642661
+      Axel_Idle-export_9: -2971756100602623734
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
